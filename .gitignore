@@ -1,0 +1,6 @@
+data/
+finance-env/
+data.zip
+raw_stock_data.zip
+schema.csv
+.DS_Store
